@@ -1,0 +1,7 @@
+public class Hello{
+public static void main(String[] args)
+{
+  System.out.println("Welcome to today's class");
+  System.out.println("Jenkins tool");
+}
+}
